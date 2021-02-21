@@ -1,334 +1,124 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-02-21T01:54:45+01:00</updated><id>/feed.xml</id><title type="html">Choses qui…</title><subtitle>Choses qui... est un projet de micro-blogging qui s&apos;inspire des Notes de chevet (枕草子, Makura no sōshi), une œuvre majeure de la littérature japonaise du XIe siècle, attribuée à Sei Shōnagon.
-</subtitle><author><name>Dimitri Régnier</name><email>bonjour@dimitriregnier.net</email></author><entry><title type="html">Choses particulières</title><link href="/choses-particulieres/" rel="alternate" type="text/html" title="Choses particulières" /><published>2021-02-20T00:00:00+01:00</published><updated>2021-02-20T00:00:00+01:00</updated><id>/choses-particulieres</id><content type="html" xml:base="/choses-particulieres/">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-02-21T11:39:25+01:00</updated><id>/feed.xml</id><title type="html">Choses qui…</title><subtitle>Un projet de micro-blogging inspiré des Notes de chevet (枕草子, Makura no sōshi), une œuvre majeure de la littérature japonaise du XIe siècle, attribuée à Sei Shōnagon.
+</subtitle><author><name>Dimitri Régnier</name><email>bonjour@dimitriregnier.net</email></author><entry><title type="html">Choses particulières</title><link href="/choses-particulieres/" rel="alternate" type="text/html" title="Choses particulières" /><published>2021-02-20T00:00:00+01:00</published><updated>2021-02-20T00:00:00+01:00</updated><id>/choses-particulieres</id><content type="html" xml:base="/choses-particulieres/">&lt;p&gt;&lt;img src=&quot;/imgs/Sei_Shonagon.jpg&quot; alt=&quot;Sei Shōnagon, la première blogueuse ?&quot; /&gt;
+&lt;span class=&quot;caption&quot;&gt;Sei Shōnagon, la première blogueuse ?&lt;/span&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;some-great-heading-h2&quot;&gt;Some great heading (h2)&lt;/h2&gt;
+&lt;h2 align=&quot;center&quot;&gt;
+  Rendez-vous le 21 mars 2021
+&lt;/h2&gt;
 
-&lt;p&gt;Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu.&lt;/p&gt;
+&lt;hr /&gt;
 
-&lt;p&gt;Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.&lt;/p&gt;
+&lt;p&gt;Je suis &lt;a href=&quot;https://dimitriregnier.net&quot; target=&quot;_blank&quot;&gt;Dimitri Régnier&lt;/a&gt;, producteur d’émotions. Je fais des &lt;a href=&quot;https://dimitriregnier.net/blog/podcasts&quot; target=&quot;_blank&quot;&gt;podcasts&lt;/a&gt;, une &lt;a href=&quot;https://dimitriregnier.net/#contact&quot; target=&quot;_blank&quot;&gt;newsletter&lt;/a&gt; et un &lt;a href=&quot;https://dimitriregnier.net/blog/&quot; target=&quot;_blank&quot;&gt;blog&lt;/a&gt;. Si vous appréciez ce travail, merci de me &lt;a href=&quot;https://liberapay.com/dimregnier&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;soutenir&lt;/strong&gt;&lt;/a&gt;. Les contributions, même modestes, sont une réelle motivation.&lt;/p&gt;</content><author><name>[&quot;Dimitri&quot;]</name></author><summary type="html">Sei Shōnagon, la première blogueuse ?</summary></entry><entry><title type="html">Au printemps, c’est l’aurore</title><link href="/au-printemps-cest-laurore/" rel="alternate" type="text/html" title="Au printemps, c’est l’aurore" /><published>2021-02-19T00:00:00+01:00</published><updated>2021-02-19T00:00:00+01:00</updated><id>/au-printemps-cest-laurore</id><content type="html" xml:base="/au-printemps-cest-laurore/">&lt;p&gt;&lt;img src=&quot;/imgs/head_debut.jpg&quot; alt=&quot;Vivian Wu • The Pillow Book - Un film de Peter Greenaway (1996)&quot; /&gt;
+&lt;span class=&quot;caption&quot;&gt;Vivian Wu • The Pillow Book - Un film de Peter Greenaway (1996)&lt;/span&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;another-great-heading-h2&quot;&gt;Another great heading (h2)&lt;/h2&gt;
+&lt;p&gt;Depuis des années, un livre revient sans cesse dans mon histoire. Les &lt;strong&gt;Notes de chevet&lt;/strong&gt; de Sei Shōnagon. Je l’ai découvert étudiant lors de mon tout premier atelier d’écriture.&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.&lt;/p&gt;
+&lt;p&gt;J’ai toujours nourri une sensation d’inachevé vis-à-vis de ce livre. Pour une raison que je n’ai pas encore déterminée, j’associe ce sentiment à mon rapport compliqué à la rédaction littéraire.&lt;/p&gt;
 
-&lt;h3 id=&quot;some-great-subheading-h3&quot;&gt;Some great subheading (h3)&lt;/h3&gt;
+&lt;p&gt;À la faveur d’un visionnage récent du film de Peter Greenaway. Récit d’obsession et de vengeance sur fond d’histoire d’amour. Le choc esthétique fut intact.&lt;/p&gt;
 
-&lt;p&gt;Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum.&lt;/p&gt;
-
-&lt;p&gt;Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.&lt;/p&gt;
-
-&lt;h3 id=&quot;some-great-subheading-h3-1&quot;&gt;Some great subheading (h3)&lt;/h3&gt;
-
-&lt;p&gt;Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.&lt;/p&gt;
+&lt;p&gt;J’ai donc décidé de prendre le taureau par les cornes de relire le livre et d’aller au bout d’un projet que j’avais enterré depuis plus de 20 ans.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;This quote will &lt;em&gt;change&lt;/em&gt; your life. It will reveal the &lt;i&gt;secrets&lt;/i&gt; of the universe, and all the wonders of humanity. Don’t &lt;em&gt;misuse&lt;/em&gt; it.&lt;/p&gt;
+  &lt;p&gt;Écrire mes propres Notes de chevet.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt.&lt;/p&gt;
+&lt;h2 id=&quot;pourquoi-le-micro-blogging-&quot;&gt;Pourquoi le Micro-blogging ?&lt;/h2&gt;
 
-&lt;h3 id=&quot;some-great-subheading-h3-2&quot;&gt;Some great subheading (h3)&lt;/h3&gt;
+&lt;p&gt;Avouons-le. J’aime le web mais pas ce qu’il est devenu. J’avais envie de créer une petit forme littéraire en ligne. Simple, esthétique et agréable à consulter.&lt;/p&gt;
 
-&lt;p&gt;Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum.&lt;/p&gt;
+&lt;h2 id=&quot;un-objet-avec-un-début-et-une-fin&quot;&gt;Un objet avec un début et une fin.&lt;/h2&gt;
 
-&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;html&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;head&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;/head&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;body&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;Hello, World!&lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;/body&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/html&amp;gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Je vais donc reprendre 75 &lt;em&gt;Choses qui…&lt;/em&gt; à la manière de Sei avec les titres de son oeuvre que je liste ci-dessous.&lt;/p&gt;
 
-&lt;p&gt;In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.&lt;/p&gt;
+&lt;p&gt;Mon but est de rédiger un journal d’inspiration, que j’écrirai à la main et que je reporterai au quotidien à partir du 21 mars 2021 et durant 75 jours.&lt;/p&gt;
 
-&lt;h4 id=&quot;you-might-want-a-sub-subheading-h4&quot;&gt;You might want a sub-subheading (h4)&lt;/h4&gt;
+&lt;p&gt;J’espère que cette petite distraction poético-littéraire vous plaira.&lt;/p&gt;
 
-&lt;p&gt;In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.&lt;/p&gt;
+&lt;p&gt;À très vite&lt;/p&gt;
 
-&lt;p&gt;In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.&lt;/p&gt;
+&lt;p&gt;– Dimitri&lt;/p&gt;
 
-&lt;h4 id=&quot;but-its-probably-overkill-h4&quot;&gt;But it’s probably overkill (h4)&lt;/h4&gt;
-
-&lt;p&gt;In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.&lt;/p&gt;
-
-&lt;h5 id=&quot;could-be-a-smaller-sub-heading-pacman-h5&quot;&gt;Could be a smaller sub-heading, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;pacman&lt;/code&gt; (h5)&lt;/h5&gt;
-
-&lt;p&gt;In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.&lt;/p&gt;
-
-&lt;h6 id=&quot;small-yet-significant-sub-heading--h6&quot;&gt;Small yet significant sub-heading  (h6)&lt;/h6&gt;
-
-&lt;p&gt;In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.&lt;/p&gt;
-
-&lt;h3 id=&quot;oh-hai-an-unordered-list&quot;&gt;Oh hai, an unordered list!!&lt;/h3&gt;
-
-&lt;p&gt;In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;First item, yo&lt;/li&gt;
-  &lt;li&gt;Second item, dawg&lt;/li&gt;
-  &lt;li&gt;Third item, what what?!&lt;/li&gt;
-  &lt;li&gt;Fourth item, fo sheezy my neezy&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;oh-hai-an-ordered-list&quot;&gt;Oh hai, an ordered list!!&lt;/h3&gt;
-
-&lt;p&gt;In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;First item, yo&lt;/li&gt;
-  &lt;li&gt;Second item, dawg&lt;/li&gt;
-  &lt;li&gt;Third item, what what?!&lt;/li&gt;
-  &lt;li&gt;Fourth item, fo sheezy my neezy&lt;/li&gt;
+  &lt;li&gt;Choses particulières&lt;/li&gt;
+  &lt;li&gt;Choses désolantes&lt;/li&gt;
+  &lt;li&gt;Choses dont on néglige souvent la fin&lt;/li&gt;
+  &lt;li&gt;Choses que l’on méprise&lt;/li&gt;
+  &lt;li&gt;Choses détestables&lt;/li&gt;
+  &lt;li&gt;Choses qui font battre le cœur&lt;/li&gt;
+  &lt;li&gt;Choses qui font naître un doux souvenir du passé&lt;/li&gt;
+  &lt;li&gt;Choses qui égayent le cœur&lt;/li&gt;
+  &lt;li&gt;Choses élégantes&lt;/li&gt;
+  &lt;li&gt;Choses qui ne s’accordent pas&lt;/li&gt;
+  &lt;li&gt;Choses peu rassurantes&lt;/li&gt;
+  &lt;li&gt;Choses que l’on ne peut comparer&lt;/li&gt;
+  &lt;li&gt;Choses rares&lt;/li&gt;
+  &lt;li&gt;Choses qu’il ne valait pas la peine de faire&lt;/li&gt;
+  &lt;li&gt;Choses dont on n’a aucun regret&lt;/li&gt;
+  &lt;li&gt;Choses qui paraissent agréables&lt;/li&gt;
+  &lt;li&gt;Choses qui semblent éveiller la mélancolie&lt;/li&gt;
+  &lt;li&gt;Choses splendides&lt;/li&gt;
+  &lt;li&gt;Choses qui ont une grâce raffinée&lt;/li&gt;
+  &lt;li&gt;Choses contrariantes&lt;/li&gt;
+  &lt;li&gt;Choses gênantes&lt;/li&gt;
+  &lt;li&gt;Choses qui frappent de stupeur&lt;/li&gt;
+  &lt;li&gt;Choses pénibles&lt;/li&gt;
+  &lt;li&gt;Choses qui sont loin du terme&lt;/li&gt;
+  &lt;li&gt;Choses que l’on entend parfois avec plus d’émotions qu’à l’ordinaire&lt;/li&gt;
+  &lt;li&gt;Choses qui perdent à être peintes&lt;/li&gt;
+  &lt;li&gt;Choses qui gagnent à être peintes&lt;/li&gt;
+  &lt;li&gt;Choses qui émeuvent profondément&lt;/li&gt;
+  &lt;li&gt;Choses qui paraissent pitoyables&lt;/li&gt;
+  &lt;li&gt;Choses qui donnent une impression de chaleur&lt;/li&gt;
+  &lt;li&gt;Choses qui font honte&lt;/li&gt;
+  &lt;li&gt;Choses sans valeur&lt;/li&gt;
+  &lt;li&gt;Choses embarrassantes&lt;/li&gt;
+  &lt;li&gt;Choses qui emplissent l’âme de tristesse&lt;/li&gt;
+  &lt;li&gt;Choses qui distraient dans les moments d’ennui&lt;/li&gt;
+  &lt;li&gt;Choses qui ne sont bonnes à rien&lt;/li&gt;
+  &lt;li&gt;Choses qui sont les plus belles du monde&lt;/li&gt;
+  &lt;li&gt;Choses effrayantes&lt;/li&gt;
+  &lt;li&gt;Choses qui semblent pures&lt;/li&gt;
+  &lt;li&gt;Choses qui paraissent malpropres&lt;/li&gt;
+  &lt;li&gt;Choses qui semblent vulgaires&lt;/li&gt;
+  &lt;li&gt;Choses qui remplissent d’angoisse&lt;/li&gt;
+  &lt;li&gt;Choses ravissantes&lt;/li&gt;
+  &lt;li&gt;Choses sans retenue&lt;/li&gt;
+  &lt;li&gt;Choses dont le nom est effrayant&lt;/li&gt;
+  &lt;li&gt;Choses qui n’offrent rien d’extraordinaire au regard, et qui prennent une importance exagérée quand on l’écrit.&lt;/li&gt;
+  &lt;li&gt;Choses qui ont un aspect sale&lt;/li&gt;
+  &lt;li&gt;Choses qui paraissent affligeantes&lt;/li&gt;
+  &lt;li&gt;Choses enviables&lt;/li&gt;
+  &lt;li&gt;Choses que l’on a grande hâte de voir, ou d’entendre&lt;/li&gt;
+  &lt;li&gt;Choses impatientantes&lt;/li&gt;
+  &lt;li&gt;Choses qui ne servent plus à rien, mais qui rappellent le passé&lt;/li&gt;
+  &lt;li&gt;Choses auxquelles on ne peut guère se fier&lt;/li&gt;
+  &lt;li&gt;Choses qui sont éloignées, bien que proches&lt;/li&gt;
+  &lt;li&gt;Choses qui sont proches, bien qu’éloignées&lt;/li&gt;
+  &lt;li&gt;Choses charmantes&lt;/li&gt;
+  &lt;li&gt;Choses à voir&lt;/li&gt;
+  &lt;li&gt;Choses qui sont bonnes quand elles sont grandes&lt;/li&gt;
+  &lt;li&gt;Choses qui doivent être courtes&lt;/li&gt;
+  &lt;li&gt;Choses qui sont à propos dans une maison&lt;/li&gt;
+  &lt;li&gt;Choses tumultueuses&lt;/li&gt;
+  &lt;li&gt;Choses négligées&lt;/li&gt;
+  &lt;li&gt;Choses qui ne font que passer&lt;/li&gt;
+  &lt;li&gt;Choses que les gens ignorent le plus fréquemment&lt;/li&gt;
+  &lt;li&gt;Choses très malpropres&lt;/li&gt;
+  &lt;li&gt;Choses excessivement effrayantes&lt;/li&gt;
+  &lt;li&gt;Choses qui donnent confiance&lt;/li&gt;
+  &lt;li&gt;Choses qui rendent heureux&lt;/li&gt;
+  &lt;li&gt;Choses vénérables et précieuses&lt;/li&gt;
+  &lt;li&gt;Choses mauvaises&lt;/li&gt;
+  &lt;li&gt;Choses magnifiques&lt;/li&gt;
+  &lt;li&gt;Choses auxquelles on ne peut s’abandonner&lt;/li&gt;
+  &lt;li&gt;Choses désagréables&lt;/li&gt;
+  &lt;li&gt;Choses difficiles à dire&lt;/li&gt;
+  &lt;li&gt;Choses désagréables à voir&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h2 id=&quot;headings-are-cool-h2&quot;&gt;Headings are cool! (h2)&lt;/h2&gt;
+&lt;hr /&gt;
 
-&lt;p&gt;Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.&lt;/p&gt;
-
-&lt;p&gt;Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.&lt;/p&gt;
-
-&lt;p&gt;Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.&lt;/p&gt;
-
-&lt;h3 id=&quot;tables&quot;&gt;Tables&lt;/h3&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Title 1&lt;/th&gt;
-      &lt;th&gt;Title 2&lt;/th&gt;
-      &lt;th&gt;Title 3&lt;/th&gt;
-      &lt;th&gt;Title 4&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;lorem&lt;/td&gt;
-      &lt;td&gt;lorem ipsum&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Title 1&lt;/th&gt;
-      &lt;th&gt;Title 2&lt;/th&gt;
-      &lt;th&gt;Title 3&lt;/th&gt;
-      &lt;th&gt;Title 4&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;lorem&lt;/td&gt;
-      &lt;td&gt;lorem ipsum&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;lorem ipsum dolor sit amet&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit amet consectetur&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit amet&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;lorem ipsum dolor&lt;/td&gt;
-      &lt;td&gt;lorem ipsum&lt;/td&gt;
-      &lt;td&gt;lorem&lt;/td&gt;
-      &lt;td&gt;lorem ipsum&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;lorem ipsum dolor&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit amet&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit amet consectetur&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name>[&quot;Dimitri&quot;]</name></author><category term="notes" /><summary type="html">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.</summary></entry><entry><title type="html">Au printemps, c’est l’aurore</title><link href="/au-printemps-cest-aurore/" rel="alternate" type="text/html" title="Au printemps, c’est l’aurore" /><published>2021-02-19T00:00:00+01:00</published><updated>2021-02-19T00:00:00+01:00</updated><id>/au-printemps-cest-aurore</id><content type="html" xml:base="/au-printemps-cest-aurore/">&lt;p&gt;&lt;img src=&quot;/imgs/head_debut.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.&lt;/p&gt;
-
-&lt;h2 id=&quot;some-great-heading-h2&quot;&gt;Some great heading (h2)&lt;/h2&gt;
-
-&lt;p&gt;Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu.&lt;/p&gt;
-
-&lt;p&gt;Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.&lt;/p&gt;
-
-&lt;h2 id=&quot;another-great-heading-h2&quot;&gt;Another great heading (h2)&lt;/h2&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.&lt;/p&gt;
-
-&lt;h3 id=&quot;some-great-subheading-h3&quot;&gt;Some great subheading (h3)&lt;/h3&gt;
-
-&lt;p&gt;Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum.&lt;/p&gt;
-
-&lt;p&gt;Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.&lt;/p&gt;
-
-&lt;h3 id=&quot;some-great-subheading-h3-1&quot;&gt;Some great subheading (h3)&lt;/h3&gt;
-
-&lt;p&gt;Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;This quote will &lt;em&gt;change&lt;/em&gt; your life. It will reveal the &lt;i&gt;secrets&lt;/i&gt; of the universe, and all the wonders of humanity. Don’t &lt;em&gt;misuse&lt;/em&gt; it.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt.&lt;/p&gt;
-
-&lt;h3 id=&quot;some-great-subheading-h3-2&quot;&gt;Some great subheading (h3)&lt;/h3&gt;
-
-&lt;p&gt;Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum.&lt;/p&gt;
-
-&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;html&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;head&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;/head&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;body&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;Hello, World!&lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;/body&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/html&amp;gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.&lt;/p&gt;
-
-&lt;h4 id=&quot;you-might-want-a-sub-subheading-h4&quot;&gt;You might want a sub-subheading (h4)&lt;/h4&gt;
-
-&lt;p&gt;In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.&lt;/p&gt;
-
-&lt;p&gt;In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.&lt;/p&gt;
-
-&lt;h4 id=&quot;but-its-probably-overkill-h4&quot;&gt;But it’s probably overkill (h4)&lt;/h4&gt;
-
-&lt;p&gt;In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.&lt;/p&gt;
-
-&lt;h5 id=&quot;could-be-a-smaller-sub-heading-pacman-h5&quot;&gt;Could be a smaller sub-heading, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;pacman&lt;/code&gt; (h5)&lt;/h5&gt;
-
-&lt;p&gt;In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.&lt;/p&gt;
-
-&lt;h6 id=&quot;small-yet-significant-sub-heading--h6&quot;&gt;Small yet significant sub-heading  (h6)&lt;/h6&gt;
-
-&lt;p&gt;In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.&lt;/p&gt;
-
-&lt;h3 id=&quot;oh-hai-an-unordered-list&quot;&gt;Oh hai, an unordered list!!&lt;/h3&gt;
-
-&lt;p&gt;In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;First item, yo&lt;/li&gt;
-  &lt;li&gt;Second item, dawg&lt;/li&gt;
-  &lt;li&gt;Third item, what what?!&lt;/li&gt;
-  &lt;li&gt;Fourth item, fo sheezy my neezy&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;oh-hai-an-ordered-list&quot;&gt;Oh hai, an ordered list!!&lt;/h3&gt;
-
-&lt;p&gt;In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;First item, yo&lt;/li&gt;
-  &lt;li&gt;Second item, dawg&lt;/li&gt;
-  &lt;li&gt;Third item, what what?!&lt;/li&gt;
-  &lt;li&gt;Fourth item, fo sheezy my neezy&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;headings-are-cool-h2&quot;&gt;Headings are cool! (h2)&lt;/h2&gt;
-
-&lt;p&gt;Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.&lt;/p&gt;
-
-&lt;p&gt;Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.&lt;/p&gt;
-
-&lt;p&gt;Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.&lt;/p&gt;
-
-&lt;h3 id=&quot;tables&quot;&gt;Tables&lt;/h3&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Title 1&lt;/th&gt;
-      &lt;th&gt;Title 2&lt;/th&gt;
-      &lt;th&gt;Title 3&lt;/th&gt;
-      &lt;th&gt;Title 4&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;lorem&lt;/td&gt;
-      &lt;td&gt;lorem ipsum&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Title 1&lt;/th&gt;
-      &lt;th&gt;Title 2&lt;/th&gt;
-      &lt;th&gt;Title 3&lt;/th&gt;
-      &lt;th&gt;Title 4&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;lorem&lt;/td&gt;
-      &lt;td&gt;lorem ipsum&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;lorem ipsum dolor sit amet&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit amet consectetur&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit amet&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;lorem ipsum dolor&lt;/td&gt;
-      &lt;td&gt;lorem ipsum&lt;/td&gt;
-      &lt;td&gt;lorem&lt;/td&gt;
-      &lt;td&gt;lorem ipsum&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;lorem ipsum dolor&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit amet&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit amet consectetur&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name>[&quot;Dimitri&quot;]</name></author><category term="notes" /><summary type="html"></summary></entry></feed>
+&lt;p&gt;Je suis &lt;a href=&quot;https://dimitriregnier.net&quot; target=&quot;_blank&quot;&gt;Dimitri Régnier&lt;/a&gt;, producteur d’émotions. Je fais des &lt;a href=&quot;https://dimitriregnier.net/blog/podcasts&quot; target=&quot;_blank&quot;&gt;podcasts&lt;/a&gt;, une &lt;a href=&quot;https://dimitriregnier.net/#contact&quot; target=&quot;_blank&quot;&gt;newsletter&lt;/a&gt; et un &lt;a href=&quot;https://dimitriregnier.net/blog/&quot; target=&quot;_blank&quot;&gt;blog&lt;/a&gt;. Si vous appréciez ce travail, merci de me &lt;a href=&quot;https://liberapay.com/dimregnier&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;soutenir&lt;/strong&gt;&lt;/a&gt;. Les contributions, même modestes, sont une réelle motivation.&lt;/p&gt;</content><author><name>[&quot;Dimitri&quot;]</name></author><category term="notes" /><summary type="html">Vivian Wu • The Pillow Book - Un film de Peter Greenaway (1996)</summary></entry></feed>
