@@ -1,2 +1,3 @@
 # dimregnier.github.io
-Page personnelle sur Github
+Il n'y a rien ici pour le moment
+Rendez-vous sur [go.dimi.re](https://go.dimi.re)
